@@ -1,0 +1,6 @@
+<svg width="624" height="24" viewBox="0 0 624 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="0" y1="12" x2="624" y2="12" stroke="#E4E7E9" stroke-width="2" stroke-miterlimit="3.999327" stroke-linecap="round"/>
+<line x1="96" y1="12" x2="400" y2="12" stroke="#FA8232" stroke-width="2" stroke-miterlimit="3.999327"/>
+<circle cx="98" cy="12" r="12" fill="#FFFFFF" stroke="#FA8232" stroke-width="2" stroke-miterlimit="3.999327"/>
+<circle cx="400" cy="12" r="12" fill="#FFFFFF" stroke="#FA8232" stroke-width="2" stroke-miterlimit="3.999327"/>
+</svg>

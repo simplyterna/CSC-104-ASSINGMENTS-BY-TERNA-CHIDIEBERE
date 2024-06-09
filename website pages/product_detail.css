@@ -1,0 +1,3215 @@
+.product-detail .welcome-to-clicon-online-ecommerce-store {
+  margin: 4px 10px 4px 0;
+  display: inline-block;
+  width: 914px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: #FFFFFF;
+}
+.product-detail .follow-us-1 {
+  margin-right: 12.6px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .vector-22 {
+  width: 16px;
+  height: 13px;
+}
+.product-detail .twitter-1 {
+  margin: 1.5px 12px 1.5px 0;
+  display: flex;
+  width: 16px;
+  height: 13px;
+  box-sizing: border-box;
+}
+.product-detail .vector-24 {
+  width: 5.9px;
+  height: 12.6px;
+}
+.product-detail .facebook-1 {
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 13.6px 0px 0;
+  display: flex;
+  padding: 3.4px 5px 0 5.1px;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.product-detail .vector-25 {
+  width: 12.4px;
+  height: 16px;
+}
+.product-detail .pinterest-1 {
+  margin-right: 14px;
+  display: flex;
+  width: 12.4px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.product-detail .reddit {
+  margin: 0 12px 0px 0;
+  width: 16px;
+  height: 16px;
+}
+.product-detail .vector-28 {
+  width: 16px;
+  height: 11px;
+}
+.product-detail .youtube {
+  margin: 2.5px 12.8px 2.5px 0;
+  display: flex;
+  width: 16px;
+  height: 11px;
+  box-sizing: border-box;
+}
+.product-detail .vector-29 {
+  width: 14.4px;
+  height: 14.4px;
+}
+.product-detail .instagram {
+  margin: 0.8px 0;
+  display: flex;
+  width: 14.4px;
+  height: 14.4px;
+  box-sizing: border-box;
+}
+.product-detail .social-icon-1 {
+  margin: 2px 0;
+  display: flex;
+  flex-direction: row;
+  width: 155.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .follow-us {
+  margin: 4px 24.8px 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .line-1 {
+  opacity: 0.16;
+  background: #FFFFFF;
+  margin-right: 23px;
+  width: 1px;
+  height: 28px;
+}
+.product-detail .eng {
+  margin-right: 6.7px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .vector-52 {
+  width: 7.5px;
+  height: 3.8px;
+}
+.product-detail .regular-caret-down-3 {
+  opacity: 0.5;
+  margin: 4px 0;
+  display: flex;
+  padding: 4.5px 2.3px 3.8px 2.3px;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.product-detail .multi-language-drodpwon {
+  margin: 4px 24px 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .usd {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: #FFFFFF;
+}
+.product-detail .vector-53 {
+  width: 7.5px;
+  height: 3.8px;
+}
+.product-detail .regular-caret-down-4 {
+  opacity: 0.5;
+  margin: 4px 0;
+  display: flex;
+  padding: 4.5px 2.3px 3.8px 2.3px;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.product-detail .multi-currency-dropdown {
+  margin: 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .left-content {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .top-nav {
+  box-shadow: inset 0px -1px 0px 0px rgba(255, 255, 255, 0.16);
+  background: var(--secondary-700, #1B6392);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail .icon {
+  margin-right: 8px;
+  width: 48px;
+  height: 48px;
+}
+.product-detail .clicon {
+  margin: 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Public Sans';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: -0.6px;
+  line-height: 1.25;
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .logo {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .search-for-anything {
+  margin-right: 10px;
+  width: 576px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-500, #77878F);
+}
+.product-detail .regular-magnifying-glass {
+  width: 20px;
+  height: 20px;
+}
+.product-detail .frame-18 {
+  box-shadow: 0px 8px 32px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 2px;
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 20px;
+  width: 646px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .vector-34 {
+  position: absolute;
+  left: 0px;
+  top: 8px;
+  width: 26.7px;
+  height: 18px;
+}
+.product-detail .container-11 {
+  overflow-wrap: break-word;
+  font-family: var(--body-tiny-600-font-family, 'Public Sans');
+  font-weight: var(--body-tiny-600-font-weight, 600);
+  font-size: var(--body-tiny-600-font-size, 12px);
+  line-height: var(--body-tiny-600-line-height, 1.333);
+  color: var(--secondary-700, #1B6392);
+}
+.product-detail .frame-181 {
+  border-radius: 100px;
+  border: 1.5px solid var(--secondary-700, #1B6392);
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 9px 8px;
+  display: flex;
+  padding: 2px 6.3px;
+  box-sizing: border-box;
+}
+.product-detail .vector-32 {
+  margin-right: 9px;
+  width: 4px;
+  height: 4px;
+}
+.product-detail .vector-33 {
+  width: 4px;
+  height: 4px;
+}
+.product-detail .container-1 {
+  position: relative;
+  margin-right: 11px;
+  display: flex;
+  flex-direction: row;
+  width: 17px;
+  box-sizing: border-box;
+}
+.product-detail .shopping-cart-simple-1 {
+  position: relative;
+  margin: 0 23.5px 3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 7px;
+  box-sizing: border-box;
+}
+.product-detail .vector-35 {
+  width: 25px;
+  height: 22px;
+}
+.product-detail .heart {
+  margin: 9px 27.5px 5px 0;
+  display: flex;
+  width: 25px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.product-detail .regular-user {
+  margin-top: 4px;
+  width: 32px;
+  height: 32px;
+}
+.product-detail .icons {
+  margin: 4px 0 8px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .middle-nav {
+  background: var(--secondary-700, #1B6392);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail .label-2 {
+  margin-right: 11px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .vector-54 {
+  width: 10px;
+  height: 5px;
+}
+.product-detail .regular-caret-down-5 {
+  margin: 8px 0 7px 0;
+  display: flex;
+  width: 10px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.product-detail .button-4 {
+  border-radius: 2px;
+  background: var(--gray-50, #F2F4F5);
+  display: flex;
+  flex-direction: row;
+  padding: 14px 0;
+  width: 154px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .category {
+  margin-right: 24px;
+  display: flex;
+  width: 154px;
+  box-sizing: border-box;
+}
+.product-detail .regular-map-pin-line {
+  margin-right: 6px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .track-order-1 {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .track-order {
+  margin: 12px 24.1px 12px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .duotone-arrows-counter-clockwise {
+  margin-right: 6px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .compare-1 {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .compare {
+  margin: 12px 27.1px 12px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .vector-45 {
+  width: 18.1px;
+  height: 15.8px;
+}
+.product-detail .regular-headphones {
+  margin: 1.8px 8.9px 2.5px 0;
+  display: flex;
+  width: 18.1px;
+  height: 15.8px;
+  box-sizing: border-box;
+}
+.product-detail .customer-support-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .customer-support {
+  margin: 14px 24.3px 14px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .regular-info {
+  margin-right: 6px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .need-help-1 {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .need-help {
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .left-side {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .regular-phone-call {
+  margin-right: 8px;
+  width: 28px;
+  height: 28px;
+}
+.product-detail .container-12 {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-large-400-font-family, 'Public Sans');
+  font-weight: var(--body-large-400-font-weight, 400);
+  font-size: var(--body-large-400-font-size, 18px);
+  line-height: var(--body-large-400-line-height, 1.333);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .call-now {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .bottom-nav {
+  box-shadow: inset 0px -1px 0px 0px #E4E7E9;
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail .navigation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail .vector-56 {
+  width: 13.8px;
+  height: 14.2px;
+}
+.product-detail .regular-house {
+  margin: 2.7px 11.1px 3.1px 0;
+  display: flex;
+  width: 13.8px;
+  height: 14.2px;
+  box-sizing: border-box;
+}
+.product-detail .home {
+  margin-right: 12.9px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .vector-55 {
+  width: 3.8px;
+  height: 7.5px;
+}
+.product-detail .regular-caret-right {
+  margin: 6.3px 11.8px 6.3px 0;
+  display: flex;
+  width: 3.8px;
+  height: 7.5px;
+  box-sizing: border-box;
+}
+.product-detail .shop {
+  margin-right: 12.8px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .vector-57 {
+  width: 3.8px;
+  height: 7.5px;
+}
+.product-detail .regular-caret-right-1 {
+  margin: 6.3px 11.8px 6.3px 0;
+  display: flex;
+  width: 3.8px;
+  height: 7.5px;
+  box-sizing: border-box;
+}
+.product-detail .shop-grid {
+  margin-right: 12.9px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .vector-58 {
+  width: 3.8px;
+  height: 7.5px;
+}
+.product-detail .regular-caret-right-2 {
+  margin: 6.3px 11.8px 6.3px 0;
+  display: flex;
+  width: 3.8px;
+  height: 7.5px;
+  box-sizing: border-box;
+}
+.product-detail .shop-grid-1 {
+  margin-right: 13.1px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .vector-59 {
+  width: 3.8px;
+  height: 7.5px;
+}
+.product-detail .regular-caret-right-3 {
+  margin: 6.3px 11.8px 6.3px 0;
+  display: flex;
+  width: 3.8px;
+  height: 7.5px;
+  box-sizing: border-box;
+}
+.product-detail .behicle-accessories {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .breadcrumb {
+  background: var(--gray-50, #F2F4F5);
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  padding: 26px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail .main-image {
+  border-radius: 4px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: url('../assets/images/image_3.png');
+  margin: 0 24px 24px 24px;
+  width: 616px;
+  height: 464px;
+}
+.product-detail .container-3 {
+  border-radius: 2px;
+  border: 2px solid var(--primary-500, #FA8232);
+  background: url('../assets/images/image_3.png');
+  width: 96px;
+  height: 96px;
+}
+.product-detail .container-8 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: url('../assets/images/image_2.png');
+  width: 96px;
+  height: 96px;
+}
+.product-detail .container-7 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: url('../assets/images/image.png') 50% / contain no-repeat;
+  width: 96px;
+  height: 96px;
+}
+.product-detail .container-5 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: url('../assets/images/image_4.png'), linear-gradient(#FAFAFA, #FAFAFA);
+  width: 96px;
+  height: 96px;
+}
+.product-detail .container-6 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: url('../assets/images/image_1.png');
+  width: 96px;
+  height: 96px;
+}
+.product-detail .container-4 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: url('../assets/images/image_13.png');
+  width: 96px;
+  height: 96px;
+}
+.product-detail .photo {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: 616px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .regular-arrow-left {
+  width: 24px;
+  height: 24px;
+}
+.product-detail .arrow-button {
+  border-radius: 100px;
+  border: 2px solid var(--gray-00, #FFFFFF);
+  background: var(--primary-500, #FA8232);
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  padding: 10px;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.product-detail .regular-arrow-right {
+  width: 24px;
+  height: 24px;
+}
+.product-detail .arrow-button-1 {
+  border-radius: 100px;
+  border: 2px solid var(--gray-00, #FFFFFF);
+  background: var(--primary-500, #FA8232);
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  translate: 0 -50%;
+  display: flex;
+  padding: 10px;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.product-detail .images {
+  position: relative;
+  display: flex;
+  padding: 0 24px;
+  width: 664px;
+  box-sizing: border-box;
+}
+.product-detail .product-preview {
+  margin: 0 32px 90px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 664px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .vector-8 {
+  width: 16.3px;
+  height: 15.6px;
+}
+.product-detail .regular-star {
+  margin-right: 5.7px;
+  display: flex;
+  width: 16.3px;
+  height: 15.6px;
+  box-sizing: border-box;
+}
+.product-detail .vector-9 {
+  width: 16.3px;
+  height: 15.6px;
+}
+.product-detail .regular-star-1 {
+  margin-right: 5.7px;
+  display: flex;
+  width: 16.3px;
+  height: 15.6px;
+  box-sizing: border-box;
+}
+.product-detail .vector-10 {
+  width: 16.3px;
+  height: 15.6px;
+}
+.product-detail .regular-star-2 {
+  margin-right: 5.7px;
+  display: flex;
+  width: 16.3px;
+  height: 15.6px;
+  box-sizing: border-box;
+}
+.product-detail .vector-11 {
+  width: 16.3px;
+  height: 15.6px;
+}
+.product-detail .regular-star-3 {
+  margin-right: 5.7px;
+  display: flex;
+  width: 16.3px;
+  height: 15.6px;
+  box-sizing: border-box;
+}
+.product-detail .vector-12 {
+  width: 16.3px;
+  height: 15.6px;
+}
+.product-detail .regular-star-4 {
+  display: flex;
+  width: 16.3px;
+  height: 15.6px;
+  box-sizing: border-box;
+}
+.product-detail .star {
+  margin: 1.9px 7.9px 2.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 104.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .star-rating {
+  margin-right: 6.6px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .user-feedback {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .stars {
+  margin: 0 1.9px 8px 1.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .apple-mac-book-pro-with-apple-m-1-chip-13-inch-8-gb-ram-256-gb-ssd-storage-space-gray {
+  overflow-wrap: break-word;
+  font-family: var(--body-xl-400-font-family, 'Public Sans');
+  font-weight: var(--body-xl-400-font-weight, 400);
+  font-size: var(--body-xl-400-font-size, 20px);
+  line-height: var(--body-xl-400-line-height, 1.4);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .heading {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .sku-a-264671 {
+  margin-right: 9.5px;
+  width: 326.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.sku-a-264671-sub8 {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-600, #5F6C72);
+}
+.sku-a-264671 {
+  font-family: 'Public Sans';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .availability-in-stock {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.availability-in-stock-sub8 {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-600, #5F6C72);
+}
+.availability-in-stock {
+  font-family: 'Public Sans';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--success-500, #2DB224);
+}
+.product-detail .row-1 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 468.1px;
+  box-sizing: border-box;
+}
+.brand-apple-sub8 {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-600, #5F6C72);
+}
+.brand-apple {
+  font-family: 'Public Sans';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .brand-apple {
+  margin-right: 9.5px;
+  width: 326.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.product-detail .category-electronics-devices {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.category-electronics-devices-sub8 {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-600, #5F6C72);
+}
+.category-electronics-devices {
+  font-family: 'Public Sans';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 530.6px;
+  box-sizing: border-box;
+}
+.product-detail .fun-fact {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 530.6px;
+  box-sizing: border-box;
+}
+.product-detail .product-content {
+  margin: 0 46.4px 25px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .container-9 {
+  margin-right: 4.8px;
+  overflow-wrap: break-word;
+  font-family: var(--heading-03-font-family, 'Public Sans');
+  font-weight: var(--heading-03-font-weight, 600);
+  font-size: var(--heading-03-font-size, 24px);
+  line-height: var(--heading-03-line-height, 1.333);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .container-10 {
+  margin: 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: var(--gray-500, #77878F);
+}
+.product-detail .price {
+  margin-right: 12.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .hot {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .badge {
+  border-radius: 2px;
+  background: var(--warning-400, #EFD33D);
+  margin: 1px 0;
+  display: flex;
+  padding: 5px 9.9px 5px 10px;
+  box-sizing: border-box;
+}
+.product-detail .prices {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .devider {
+  background: #E4E7E9;
+  margin-bottom: 23px;
+  width: 648px;
+  height: 1px;
+}
+.product-detail .color-4 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container {
+  box-shadow: inset 0px -2px 6px 0px rgba(255, 255, 255, 0.24), inset 0px 2px 6px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 16px;
+  background: #B1B5B8;
+  width: 32px;
+  height: 32px;
+}
+.product-detail .color {
+  border-radius: 160px;
+  border: 2px solid var(--primary-500, #FA8232);
+  background: var(--gray-00, #FFFFFF);
+  margin-right: 12px;
+  display: flex;
+  padding: 4px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.product-detail .container-1 {
+  box-shadow: inset 0px -2px 6px 0px rgba(255, 255, 255, 0.24), inset 0px 2px 6px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 16px;
+  background: #E0E1E1;
+  width: 32px;
+  height: 32px;
+}
+.product-detail .color-1 {
+  border-radius: 160px;
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  padding: 6px;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.product-detail .color-2 {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  box-sizing: border-box;
+}
+.product-detail .color-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .size-3 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .good-morning {
+  margin-right: 10px;
+  width: 257px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-700, #475156);
+}
+.product-detail .vector-13 {
+  width: 10px;
+  height: 5px;
+}
+.product-detail .regular-caret-down {
+  margin: 8px 0 7px 0;
+  display: flex;
+  width: 10px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.product-detail .dropdown {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 18px 11px 15px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .size {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .row-3 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 648px;
+  box-sizing: border-box;
+}
+.product-detail .memory {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .good-morning-1 {
+  margin-right: 10px;
+  width: 257px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-700, #475156);
+}
+.product-detail .vector-14 {
+  width: 10px;
+  height: 5px;
+}
+.product-detail .regular-caret-down-1 {
+  margin: 8px 0 7px 0;
+  display: flex;
+  width: 10px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.product-detail .dropdown-1 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 18px 11px 15px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .size-1 {
+  margin-right: 24px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .storage {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .good-morning-2 {
+  margin-right: 10px;
+  width: 257px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-700, #475156);
+}
+.product-detail .vector-15 {
+  width: 10px;
+  height: 5px;
+}
+.product-detail .regular-caret-down-2 {
+  margin: 8px 0 7px 0;
+  display: flex;
+  width: 10px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.product-detail .dropdown-2 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 18px 11px 15px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .size-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .row-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .form {
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .vector-21 {
+  background: #191C1F;
+  width: 11px;
+  height: 1.5px;
+}
+.product-detail .duotone-minus {
+  margin: 12px 0 10.5px 0;
+  display: flex;
+  width: 11px;
+  height: 1.5px;
+  box-sizing: border-box;
+}
+.product-detail .container-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-400-font-family, 'Public Sans');
+  font-weight: var(--body-medium-400-font-weight, 400);
+  font-size: var(--body-medium-400-font-size, 16px);
+  line-height: var(--body-medium-400-line-height, 1.5);
+  color: var(--gray-700, #475156);
+}
+.product-detail .duotone-plus {
+  margin: 4px 0;
+  width: 16px;
+  height: 16px;
+}
+.product-detail .button-1 {
+  border-radius: 3px;
+  border: 2px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 18px 14px 0;
+  width: 164px;
+  box-sizing: border-box;
+}
+.product-detail .label {
+  margin-right: 11.8px;
+  overflow-wrap: break-word;
+  font-family: var(--heading-06-font-family, 'Public Sans');
+  font-weight: var(--heading-06-font-weight, 700);
+  font-size: var(--heading-06-font-size, 16px);
+  letter-spacing: var(--heading-06-letter-spacing, 0.2px);
+  line-height: var(--heading-06-line-height, 3.5);
+  text-transform: var(--heading-06-text-transform, uppercase);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .shopping-cart-simple {
+  margin: 16px 0;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .button {
+  border-radius: 3px;
+  background: var(--primary-500, #FA8232);
+  display: flex;
+  flex-direction: row;
+  width: 310px;
+  box-sizing: border-box;
+}
+.product-detail .label-1 {
+  overflow-wrap: break-word;
+  font-family: var(--heading-06-font-family, 'Public Sans');
+  font-weight: var(--heading-06-font-weight, 700);
+  font-size: var(--heading-06-font-size, 16px);
+  letter-spacing: var(--heading-06-letter-spacing, 0.2px);
+  line-height: var(--heading-06-line-height, 3.5);
+  text-transform: var(--heading-06-text-transform, uppercase);
+  color: var(--primary-500, #FA8232);
+}
+.product-detail .button-2 {
+  border-radius: 3px;
+  border: 2px solid var(--primary-500, #FA8232);
+  display: flex;
+  padding-right: 0.7px;
+  width: 142px;
+  box-sizing: border-box;
+}
+.product-detail .buttons {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: 648px;
+  box-sizing: border-box;
+}
+.product-detail .vector-60 {
+  width: 18.8px;
+  height: 16.5px;
+}
+.product-detail .heart-1 {
+  margin: 1.8px 8.6px 1.7px 0;
+  display: flex;
+  width: 18.8px;
+  height: 16.5px;
+  box-sizing: border-box;
+}
+.product-detail .add-to-wishlist-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-700, #475156);
+}
+.product-detail .add-to-wishlist {
+  margin: 2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .duotone-arrows-clockwise {
+  margin-right: 6px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .add-to-wishlist-3 {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-700, #475156);
+}
+.product-detail .add-to-wishlist-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .button-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 285.6px;
+  box-sizing: border-box;
+}
+.product-detail .share-product-1 {
+  margin: 2px 12.3px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-700, #475156);
+}
+.product-detail .regular-copy {
+  margin-right: 12px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .vector-2 {
+  width: 5.9px;
+  height: 12.6px;
+}
+.product-detail .facebook {
+  border-radius: 8px;
+  background: #FA8232;
+  position: relative;
+  margin: 4px 12px 4px 0;
+  display: flex;
+  padding: 3.4px 5px 0 5.1px;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.product-detail .vector {
+  width: 16px;
+  height: 13px;
+}
+.product-detail .twitter {
+  margin: 5.5px 13.6px 5.5px 0;
+  display: flex;
+  width: 16px;
+  height: 13px;
+  box-sizing: border-box;
+}
+.product-detail .vector-3 {
+  width: 12.4px;
+  height: 16px;
+}
+.product-detail .pinterest {
+  margin: 4px 0;
+  display: flex;
+  width: 12.4px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.product-detail .social-icon {
+  display: flex;
+  flex-direction: row;
+  width: 106px;
+  box-sizing: border-box;
+}
+.product-detail .share-product {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product-detail .content {
+  margin: 0 2px 32px 2.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 643.4px;
+  box-sizing: border-box;
+}
+.product-detail .guarantee-safe-checkout-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .payment-method {
+  background: url('../assets/images/payment_method.png') 50% / contain no-repeat;
+  align-self: flex-start;
+  width: 312px;
+  height: 18px;
+}
+.product-detail .guarantee-safe-checkout {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  padding: 19px 0 19px 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .product-detail-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-detail-2 {
+  margin: 0 24px 72px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .description-1 {
+  overflow-wrap: break-word;
+  font-family: var(--label-03-font-family, 'Public Sans');
+  font-weight: var(--label-03-font-weight, 500);
+  font-size: var(--label-03-font-size, 14px);
+  line-height: var(--label-03-line-height, 1.429);
+  text-transform: var(--label-03-text-transform, uppercase);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .tab {
+  box-shadow: inset 0px 1px 0px 0px #E4E7E9, inset 0px -3px 0px 0px #FA8232;
+  background: var(--gray-00, #FFFFFF);
+  margin-right: 32px;
+  padding: 18px 20px;
+  width: 134px;
+  box-sizing: border-box;
+}
+.product-detail .description-2 {
+  overflow-wrap: break-word;
+  font-family: var(--label-03-font-family, 'Public Sans');
+  font-weight: var(--label-03-font-weight, 500);
+  font-size: var(--label-03-font-size, 14px);
+  line-height: var(--label-03-line-height, 1.429);
+  text-transform: var(--label-03-text-transform, uppercase);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .tab-1 {
+  border-radius: 2px;
+  margin: 18px 52.6px 18px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .description-3 {
+  overflow-wrap: break-word;
+  font-family: var(--label-03-font-family, 'Public Sans');
+  font-weight: var(--label-03-font-weight, 500);
+  font-size: var(--label-03-font-size, 14px);
+  line-height: var(--label-03-line-height, 1.429);
+  text-transform: var(--label-03-text-transform, uppercase);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .tab-2 {
+  border-radius: 2px;
+  margin: 18px 52.8px 18px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .description-4 {
+  overflow-wrap: break-word;
+  font-family: var(--label-03-font-family, 'Public Sans');
+  font-weight: var(--label-03-font-weight, 500);
+  font-size: var(--label-03-font-size, 14px);
+  line-height: var(--label-03-line-height, 1.429);
+  text-transform: var(--label-03-text-transform, uppercase);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .tab-3 {
+  border-radius: 2px;
+  margin: 18px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .container {
+  margin-right: 20.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .line-18 {
+  background: #E4E7E9;
+  width: 1320px;
+  height: 1px;
+}
+.product-detail .tab-4 {
+  margin-bottom: 39px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1320px;
+  box-sizing: border-box;
+}
+.product-detail .description {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-600-font-family, 'Public Sans');
+  font-weight: var(--body-medium-600-font-weight, 600);
+  font-size: var(--body-medium-600-font-size, 16px);
+  line-height: var(--body-medium-600-line-height, 1.5);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .the-most-powerful-mac-book-pro-ever-is-here-with-the-blazing-fast-m-1-pro-or-m-1-max-chip-the-first-apple-silicon-designed-for-pros-you-get-groundbreaking-performance-and-amazing-battery-life-add-to-that-astunning-liquid-retina-xdr-display-the-best-camera-and-audio-ever-in-amac-notebook-and-all-the-ports-you-need-the-first-notebook-of-its-kind-this-mac-book-pro-is-abeast-m-1-pro-takes-the-exceptional-performance-of-the-m-1-architecture-to-awhole-new-level-for-pro-users {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .even-the-most-ambitious-projects-are-easily-handled-with-up-to-10-cpu-cores-up-to-16-gpu-cores-a-16-core-neural-engine-and-dedicated-encode-and-decode-media-engines-that-support-h-264-hevc-and-pro-res-codecs {
+  margin-right: 9.6px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .desciption {
+  margin-right: 75.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .feature {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-600-font-family, 'Public Sans');
+  font-weight: var(--body-medium-600-font-weight, 600);
+  font-size: var(--body-medium-600-font-size, 16px);
+  line-height: var(--body-medium-600-line-height, 1.5);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .regular-medal {
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .free-1-year-warranty {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .badge-1 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .regular-truck {
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .free-shipping-fasted-delivery {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .badge-5 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .regular-handshake {
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .money-back-guarantee {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .badge-2 {
+  margin: 0 19.9px 14px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .vector-87 {
+  width: 18.1px;
+  height: 15.8px;
+}
+.product-detail .regular-headphones-1 {
+  margin: 1.8px 10.9px 2.5px 0;
+  display: flex;
+  width: 18.1px;
+  height: 15.8px;
+  box-sizing: border-box;
+}
+.product-detail .customer-support-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .badge-3 {
+  margin: 0 3px 14px 3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .regular-credit-card {
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+.product-detail .secure-payment-method {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .badge-4 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .frame-392 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .feature-1 {
+  margin: 0 63.4px 20px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .line-19 {
+  background: #E4E7E9;
+  margin-right: 23px;
+  width: 1px;
+  height: 228px;
+}
+.product-detail .shipping-information {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-600-font-family, 'Public Sans');
+  font-weight: var(--body-medium-600-font-weight, 600);
+  font-size: var(--body-medium-600-font-size, 16px);
+  line-height: var(--body-medium-600-line-height, 1.5);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .courier-1 {
+  margin-right: 0.1px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .days-free-shipping {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .courier {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .local-shipping-1 {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .up-to-one-week-1900 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .local-shipping {
+  margin: 0 10.3px 12px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .ups-ground-shipping {
+  margin-right: 0.5px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .days-2900 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .ups-ground-shippping {
+  margin: 0 1.2px 12px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .unishop-global-export {
+  margin-right: 0.3px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .days-3900 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-600, #5F6C72);
+}
+.product-detail .inishop-global-export {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .content-13 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .shipping-information-1 {
+  margin-bottom: 68px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .content-14 {
+  margin: 0 44.7px 0 39px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .product-information {
+  border-radius: 4px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .text {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-600-font-family, 'Public Sans');
+  font-weight: var(--body-medium-600-font-weight, 600);
+  font-size: var(--body-medium-600-font-size, 16px);
+  line-height: var(--body-medium-600-line-height, 1.5);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .image {
+  background: url('../assets/images/image_14.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-13 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-1 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-1 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 14px 11px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .image-1 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-14 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-2 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-2 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-1 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 11.6px 11px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .image-2 {
+  background: url('../assets/images/image.png');
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-15 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-3 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-3 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-2 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 28.9px 11px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .flash-sale-today {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .text-1 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-600-font-family, 'Public Sans');
+  font-weight: var(--body-medium-600-font-weight, 600);
+  font-size: var(--body-medium-600-font-size, 16px);
+  line-height: var(--body-medium-600-line-height, 1.5);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .image-3 {
+  background: url('../assets/images/image_16.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-3 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-16 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-4 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-4 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-3 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 11px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .image-4 {
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-4 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-17 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-5 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-5 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-4 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 16.8px 11px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .image-5 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-5 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-18 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-6 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-6 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-5 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 11px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .best-sellers {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .text-3 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-600-font-family, 'Public Sans');
+  font-weight: var(--body-medium-600-font-weight, 600);
+  font-size: var(--body-medium-600-font-size, 16px);
+  line-height: var(--body-medium-600-line-height, 1.5);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .image-9 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-9 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-22 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-10 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .content-10 {
+  position: relative;
+  margin: 6px 0;
+  display: flex;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+.product-detail .product-9 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 11px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .image-10 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-10 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-23 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-11 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .content-11 {
+  position: relative;
+  margin: 6px 0;
+  display: flex;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+.product-detail .product-10 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 11px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .image-11 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-11 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-24 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-12 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .content-12 {
+  position: relative;
+  margin: 6px 0;
+  display: flex;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+.product-detail .product-11 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 15.9px 11px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .new-arrival {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .text-2 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-600-font-family, 'Public Sans');
+  font-weight: var(--body-medium-600-font-weight, 600);
+  font-size: var(--body-medium-600-font-size, 16px);
+  line-height: var(--body-medium-600-line-height, 1.5);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .image-6 {
+  background: url('../assets/images/image_18.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-6 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-19 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-7 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .content-7 {
+  position: relative;
+  margin: 6px 0;
+  display: flex;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+.product-detail .product-6 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 11px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .image-7 {
+  background: url('../assets/images/image_5.png');
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-7 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-20 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-8 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-8 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-7 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 11px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.product-detail .image-8 {
+  background: url('../assets/images/image_11.png');
+  margin-right: 12px;
+  width: 80px;
+  height: 80px;
+}
+.product-detail .canon-eos-1500-ddslr-camera-body-1855-mm-8 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-900, #191C1F);
+}
+.product-detail .container-21 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-600-font-family, 'Public Sans');
+  font-weight: var(--body-small-600-font-weight, 600);
+  font-size: var(--body-small-600-font-size, 14px);
+  line-height: var(--body-small-600-line-height, 1.429);
+  color: var(--secondary-500, #2DA5F3);
+}
+.product-detail .price-9 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .content-9 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .product-8 {
+  border-radius: 3px;
+  border: 1px solid var(--gray-100, #E4E7E9);
+  background: var(--gray-00, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 17px 11px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .top-rated {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .products {
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .icon-1 {
+  margin-right: 8px;
+  width: 48px;
+  height: 48px;
+}
+.product-detail .clicon-1 {
+  margin: 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Public Sans';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: -0.6px;
+  line-height: 1.25;
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .logo-1 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .customer-supports {
+  margin: 0 2.3px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-500, #77878F);
+}
+.product-detail .container-25 {
+  overflow-wrap: break-word;
+  font-family: var(--body-large-500-font-family, 'Public Sans');
+  font-weight: var(--body-large-500-font-weight, 500);
+  font-size: var(--body-large-500-font-size, 18px);
+  line-height: var(--body-large-500-line-height, 1.333);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .phone-number {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .washington-ave-manchester-kentucky-39495 {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-400-font-family, 'Public Sans');
+  font-weight: var(--body-medium-400-font-weight, 400);
+  font-size: var(--body-medium-400-font-size, 16px);
+  line-height: var(--body-medium-400-line-height, 1.5);
+  color: var(--gray-300, #ADB7BC);
+}
+.product-detail .infokinbo-com {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-500-font-family, 'Public Sans');
+  font-weight: var(--body-medium-500-font-weight, 500);
+  font-size: var(--body-medium-500-font-size, 16px);
+  line-height: var(--body-medium-500-line-height, 1.5);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .contact-info {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .clicon-ecommerce {
+  margin: 0 117px 44px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .top-category-1 {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--label-02-font-family, 'Public Sans');
+  font-weight: var(--label-02-font-weight, 500);
+  font-size: var(--label-02-font-size, 16px);
+  line-height: var(--label-02-line-height, 1.5);
+  text-transform: var(--label-02-text-transform, uppercase);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .electronics {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links {
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .electronics-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-1 {
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .electronics-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-2 {
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .devider-1 {
+  background: #EBC80C;
+  margin: 10px 8px 8px 0;
+  width: 24px;
+  height: 2px;
+}
+.product-detail .electronics-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .footer-links-3 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .electronics-4 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-4 {
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .electronics-5 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-5 {
+  margin-bottom: 6px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .browse-all-product {
+  margin-right: 7.4px;
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--warning-500, #EBC80C);
+}
+.product-detail .regular-arrow-right-1 {
+  width: 20px;
+  height: 20px;
+}
+.product-detail .button-5 {
+  background: var(--gray-900, #191C1F);
+  display: flex;
+  flex-direction: row;
+  padding: 6px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .item {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .top-category {
+  margin-right: 71px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .quick-links-1 {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--label-02-font-family, 'Public Sans');
+  font-weight: var(--label-02-font-weight, 500);
+  font-size: var(--label-02-font-size, 16px);
+  line-height: var(--label-02-line-height, 1.5);
+  text-transform: var(--label-02-text-transform, uppercase);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .electronics-6 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-6 {
+  margin: 0 9.6px 12px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .electronics-7 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-7 {
+  margin: 0 12.5px 12px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .electronics-8 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-8 {
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .electronics-12 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-12 {
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .electronics-9 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-9 {
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .electronics-10 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-10 {
+  margin-bottom: 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.product-detail .electronics-11 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-400, #929FA5);
+}
+.product-detail .footer-links-11 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.product-detail .item-1 {
+  margin-right: 2.7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .quick-links {
+  margin: 0 122.7px 6px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.product-detail .download-app {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--label-02-font-family, 'Public Sans');
+  font-weight: var(--label-02-font-weight, 500);
+  font-size: var(--label-02-font-size, 16px);
+  line-height: var(--label-02-line-height, 1.5);
+  text-transform: var(--label-02-text-transform, uppercase);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .vector-69 {
+  width: 28.8px;
+  height: 32px;
+}
+.product-detail .icongoogle-play-1 {
+  margin: 3.2px 17.8px 1.8px 0;
+  display: flex;
+  width: 28.8px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.product-detail .get-it-now {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 1.182;
+  color: #FFFFFF;
+}
+.product-detail .google-play {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #FFFFFF;
+}
+.product-detail .info {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .mobile-app {
+  border-radius: 3px;
+  background: var(--gray-800, #303639);
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 176px;
+  box-sizing: border-box;
+}
+.product-detail .vector-70 {
+  width: 27px;
+  height: 32px;
+}
+.product-detail .apple-negative-1 {
+  margin: 2.5px 18.4px 2.5px 0;
+  display: flex;
+  width: 27px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.product-detail .get-it-now-1 {
+  margin: 0 14.4px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 1.182;
+  color: #FFFFFF;
+}
+.product-detail .app-store {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #FFFFFF;
+}
+.product-detail .info-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.product-detail .mobile-app-1 {
+  border-radius: 3px;
+  background: var(--gray-800, #303639);
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 176px;
+  box-sizing: border-box;
+}
+.product-detail .links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 176px;
+  box-sizing: border-box;
+}
+.product-detail .quick-links-2 {
+  margin: 0 48px 68px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .popular-tag-1 {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--label-02-font-family, 'Public Sans');
+  font-weight: var(--label-02-font-weight, 500);
+  font-size: var(--label-02-font-size, 16px);
+  line-height: var(--label-02-line-height, 1.5);
+  text-transform: var(--label-02-text-transform, uppercase);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .cooking {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.7px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-1 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.3px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-2 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.6px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-3 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.8px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .row-4 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .cooking-4 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-4 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 8.6px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-5 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-5 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.2px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-6 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-6 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-00, #FFFFFF);
+  background: var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.2px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .row-5 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .cooking-7 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-7 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.4px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-8 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-8 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.9px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-9 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-9 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.4px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .row-6 {
+  margin: 0 28px 8px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .cooking-10 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-10 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 12.1px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-11 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-11 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.9px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .cooking-12 {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-500-font-family, 'Public Sans');
+  font-weight: var(--body-small-500-font-weight, 500);
+  font-size: var(--body-small-500-font-size, 14px);
+  line-height: var(--body-small-500-line-height, 1.429);
+  color: var(--gray-00, #FFFFFF);
+}
+.product-detail .tag-13 {
+  border-radius: 2px;
+  border: 1px solid var(--gray-800, #303639);
+  display: flex;
+  padding: 5px 11.3px 5px 11px;
+  box-sizing: border-box;
+}
+.product-detail .row-7 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .tag-12 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product-detail .popular-tag {
+  margin-bottom: 66px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product-detail .footer-1 {
+  background: var(--gray-900, #191C1F);
+  display: flex;
+  flex-direction: row;
+  padding: 72px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail .kinbo-ecommerce-template-2021-design-by-templatecookie {
+  overflow-wrap: break-word;
+  font-family: var(--body-small-400-font-family, 'Public Sans');
+  font-weight: var(--body-small-400-font-weight, 400);
+  font-size: var(--body-small-400-font-size, 14px);
+  line-height: var(--body-small-400-line-height, 1.429);
+  color: var(--gray-300, #ADB7BC);
+}
+.product-detail .copyright {
+  box-shadow: inset 0px 1px 0px 0px #303639;
+  background: var(--gray-900, #191C1F);
+  display: flex;
+  padding: 24px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.product-detail {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  box-sizing: border-box;
+}

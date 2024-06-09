@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compound Interest Calculator</title>
+    <style>
+        body {
+            background-color: #e0f7fa;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+        h2 {
+            color: #0288d1;
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333333;
+            font-weight: bold;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #cccccc;
+            border-radius: 5px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #01579b;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #013f78;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Compound Interest Calculator</h2>
+    <form id="interestForm">
+        <label for="principal">Principal Amount:</label>
+        <input type="number" id="principal" required><br><br>
+
+        <label for="rate">Annual Interest Rate (in %):</label>
+        <input type="number" id="rate" required><br><br>
+
+        <label for="time">Time Period (in years):</label>
+        <input type="number" id="time" required><br><br>
+
+        <label for="frequency">Compound Frequency:</label>
+        <select id="frequency">
+            <option value="1">Annually</option>
+            <option value="2">Semi-Annually</option>
+            <option value="4">Quarterly</option>
+            <option value="12">Monthly</option>
+        </select><br><br>
+
+        <button type="button" onclick="calculateCompoundInterest()">Calculate</button>
+    </form>
+
+    <div id="result"></div>
+</div>
+
+<script>
+    function calculateCompoundInterest() {
+        var principal = parseFloat(document.getElementById('principal').value);
+        var rate = parseFloat(document.getElementById('rate').value) / 100;
+        var time = parseFloat(document.getElementById('time').value);
+        var frequency = parseFloat(document.getElementById('frequency').value);
+
+        var n = frequency;
+        var t = time * frequency;
+        var r = rate / frequency;
+
+        var amount = principal * Math.pow((1 + r), t);
+
+        var interest = amount - principal;
+
+        document.getElementById('result').innerHTML = "Total Amount after " + time + " years: $" + amount.toFixed(2) + "<br>";
+        document.getElementById('result').innerHTML += "Total Interest Earned: $" + interest.toFixed(2);
+    }
+</script>
+
+</body>
+</html>

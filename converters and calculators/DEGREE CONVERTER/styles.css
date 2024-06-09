@@ -1,0 +1,61 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: linear-gradient(to bottom right, #4c2b11, #8b4513);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.logo {
+    font-size: 36px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.converter h2 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin: 10px 0;
+}
+
+.input-group label {
+    display: block;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.input-group input {
+    width: calc(100% - 22px);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.input-group button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #6b4423;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.input-group button:hover {
+    background-color: #5a371b;
+}

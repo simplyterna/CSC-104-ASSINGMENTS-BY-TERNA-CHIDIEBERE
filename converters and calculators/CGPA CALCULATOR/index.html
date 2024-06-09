@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CGPA Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>TERNA CHIDIEBERE TERFA</h1>
+        </header>
+        <main>
+            <h2>CGPA Calculator</h2>
+            <form id="cgpa-form">
+                <div class="form-group">
+                    <label for="subjects">Number of Subjects:</label>
+                    <input type="number" id="subjects" min="1" max="20" required>
+                </div>
+                <div id="grades-container"></div>
+                <button type="button" onclick="generateInputs()">Generate Input Fields</button>
+                <button type="submit">Calculate CGPA</button>
+            </form>
+            <div id="result"></div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
